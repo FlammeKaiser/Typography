@@ -1,0 +1,47 @@
+ body{
+
+  background-image: url("kid_friendly_background2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.container {
+
+  display: flex;
+  text-align: center; 
+  margin: auto;
+  justify-content: right;
+
+}
+
+#button {
+      
+  background-color: transparent;
+  text-align: center; 
+  position: relative;
+  top: 1s0px;
+  left: 260px;
+  margin: auto;
+  width: 200px;
+  height: 50px; 
+  border: 10px;
+  border-style: double;
+  border-radius: 10px;
+  border-color: purple;
+
+}
+
+h1{
+    
+  font-family: 'Bubblegum Sans';font-size: 22px;
+  color: violet;
+}
+
+pre{
+    
+  font-family: 'Bubblegum Sans';font-size: 28px;
+  color: violet;
+
+}

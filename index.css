@@ -1,0 +1,55 @@
+body{
+  background-image: url("kid_friendly_background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+h1 {
+  color: purple;
+  font-family: 'Bubblegum Sans';font-size: 38px;
+}
+    
+#jack-and-jill{
+
+  font-family: 'Bubblegum Sans';font-size: 76px; 
+}
+
+.welcome-text {
+
+  position: relative;
+  top: 60px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+
+}
+
+
+#button {
+      
+  background-color: transparent;
+  text-align: center; 
+  position: relative;
+  top: 360px;
+  margin: auto; 
+  border: 10px;
+  border-style: double;
+  border-radius: 10px;
+  border-color: white;
+
+}
+
+.container-fluid{
+
+  text-align: center;
+}
+
+
+
+.text {
+      
+  font-family: 'Bubblegum Sans';font-size: 42px;
+  text-align: center;
+      
+}
